@@ -1,0 +1,10 @@
+library(raster)
+library(ggplot2)
+library(rasterExtras)
+library(RSpatial)
+library(spocc)
+library(dplyr)
+library(ENMeval)
+
+devtools::install_github('rsh249/rasterExtras')
+devtools::install_github('oshea-patrick/RSpatial', force=TRUE)
