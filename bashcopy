@@ -23,4 +23,4 @@ module load R/3.6.0
 
 cd /project/ct-shbioinf/rharbert/bio331-geospatial
 
-Rscript r_scripts/sdm1.R
+Rscript r_scripts/ENMeval.R
