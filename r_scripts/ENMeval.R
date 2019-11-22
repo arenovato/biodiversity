@@ -91,10 +91,5 @@ ggplot() +
   scale_fill_manual(values = c('black', 'blue')) +
   coord_quickmap() +
   theme_bw() +
- 
-#homework
-  
-future = getData('CMIP5', var='bio', res=5, rcp = 85, model='AC', year=70,)
 
-future = getData('CMIP5', var='bio', res=6, rcp = 45, model='AC', year=70, )
 
