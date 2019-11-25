@@ -23,4 +23,4 @@
 
 module load R/3.6.0
 
-Rscript r_scripts/sdm2.R "Pinus strobus"
+Rscript r_scripts/sdm2.R "Agelaius phoeniceus"
